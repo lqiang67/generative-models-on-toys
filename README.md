@@ -1,2 +1,2 @@
-# generative_models_examples
+# examples of generative models 
 generative_models_tools
