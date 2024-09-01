@@ -1,2 +1,1 @@
-# examples of generative models 
-generative_models_tools
+# Minimum implementation of generative modeling algorithms on toys
